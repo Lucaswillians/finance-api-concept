@@ -5,8 +5,8 @@
 Este projeto foi desenvolvido como parte de um desafio de criação de uma API RESTful para gestão de finanças utilizando **NestJS** e **PostgreSQL**. A aplicação gerencia contas financeiras, transações, e relatórios de forma segura, escalável e testável.
 
 O sistema foi dividido em dois microserviços principais:
-1. **auth-service**: Responsável pela autenticação e criação de usuários.
-2. **finance-api**: Responsável pelas operações financeiras como criação de contas, transações (depósitos, retiradas e transferências), e relatórios financeiros.
+1. **auth-service**: Responsável pela autenticação e criação de usuários. -> https://github.com/Lucaswillians/auth-service
+2. **finance-api**: Responsável pelas operações financeiras como criação de contas, transações (depósitos, retiradas e transferências), e relatórios financeiros. -> https://github.com/Lucaswillians/finance-api
 
 ### Funcionalidades Implementadas:
 
