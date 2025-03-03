@@ -56,15 +56,6 @@ git clone https://github.com/Lucaswillians/auth-service.git
 git clone https://github.com/Lucaswillians/finance-api.git
 ```
 
-### Testando os Endpoints com o Insomnia
-Para facilitar a interação com a API, um arquivo de configuração do Insomnia contendo todos os endpoints está disponível no repositório. Você pode importá-lo para o Insomnia e testar as funcionalidades da API de forma simples.
-
-Instruções para usar o arquivo do Insomnia:
-- Faça o download do arquivo financial-api-insomnia.json disponível na raiz do repositório.
-- Abra o Insomnia e clique em Importar.
-- Selecione o arquivo financial-api-insomnia.json.
-- Agora, você pode testar todos os endpoints da API diretamente no Insomnia, incluindo autenticação e operações financeiras.
-
 # Bull - Processamento de Filas
 
 ## O que é o Bull?
